@@ -14,7 +14,7 @@ def main():
     print("4+4/2={}".format(4 + 4 / 2))
     print("3+4*2={}".format(3 + 4 * 2))
     print("5+2^3={}".format(5 + 2 ^ 3))  # Bitwise Operators
-    print("5+2³={}".format(5 + 2**3))  # exponent
+    print("5+2³={}".format(5 + 2 ** 3))  # exponent
 
 
 if __name__ == "__main__":
